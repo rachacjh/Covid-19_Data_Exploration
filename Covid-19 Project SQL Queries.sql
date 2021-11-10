@@ -1,3 +1,10 @@
+/*
+Covid-19 Basic Data Exploration
+
+Skills used: Joins, CTE, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 -- Identifying data to be used for exploration
 
 select continent, location, date, population, total_cases, new_cases, total_deaths, new_deaths
